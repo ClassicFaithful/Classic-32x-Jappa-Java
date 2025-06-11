@@ -2,8 +2,8 @@
     "gui": {
         "scaling": {
             "type": "tile",
-            "width": 14,
-            "height": 5
+            "width": 28,
+            "height": 10
         }
     }
 }
