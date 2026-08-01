@@ -1,4 +1,4 @@
-[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://webapp.faithfulpack.net/gallery. 
+[CRUCIAL] This file is no longer being maintained as of April 16, 2023. You can view updated credits on our database using https://studio.faithfulpack.net/gallery.
 
 ---
 
@@ -40,7 +40,7 @@ Arkytac - Unknown pack image render.
 
 Shaggy - Unseen Notification and Smithing GUI.
 
-liamj987 - Tab button+, cherry particles, and gold heart particles. 
+liamj987 - Tab button+, cherry particles, and gold heart particles.
 
 ---These contributions weren't explicitly made for Classic Faithful but we have permission to use them---
 
@@ -104,7 +104,7 @@ silentsource - Parts of the end crystal.
 
 SupremX8 - Two of the creative UIs.
 
-carlotta4th - Beacon GUI* and the survival inventory GUI*. 
+carlotta4th - Beacon GUI* and the survival inventory GUI*.
 
 TheHalaran - XP and boss bars+*.
 
