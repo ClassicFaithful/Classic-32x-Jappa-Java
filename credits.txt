@@ -1,3 +1,0 @@
-This is a live link and will be updated each time contributed textures are added:
-
-https://github.com/ClassicFaithful/32x-Jappa/blob/main/credits.txt
